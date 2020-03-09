@@ -1,3 +1,3 @@
-March 9th, 2020
+### March 9th, 2020
 
-- Create a npm package.
+1. Took a short and quick tutorial on Markdown from [this site](www.markdowntutorial.com).
