@@ -11,3 +11,8 @@
 ### March 11th, 2020
 
 1. Created an app with lerna. [link](https://github.com/mohinderps/math-app-with-lerna)
+
+### March 12th, 2020
+
+1. Using lerna and yarn workspaces together.
+
