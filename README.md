@@ -16,3 +16,6 @@
 
 1. Using lerna and yarn workspaces together.
 
+### March 14th, 2020
+
+1. Read about React Pure Component. Created a (sandbox)[https://codesandbox.io/s/keen-bassi-sqv4e] demonstarting the concept.
